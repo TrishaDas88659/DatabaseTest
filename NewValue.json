@@ -1,2 +1,3 @@
 [{"id":1, "age":5, "email":"hjvhv", "gender":"hf", "pass_word":"h225", "user_name":"fjfst"},
- {"id":2, "age":24, "email":"kdfgruf", "gender":"fg", "pass_word":"frge21", "user_name":"vgwrg"}]
+ {"id":2, "age":24, "email":"kdfgruf", "gender":"fg", "pass_word":"frge21", "user_name":"vgwrg"},
+{"id":3, "age":24, "email":"new@gmail.com", "gender":"m", "pass_word":"5678", "user_name":"newname"}]
